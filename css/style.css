@@ -7,14 +7,11 @@
     ". foto ."
     ". tekst ."
     ". tekst ."
-    ". enquetes ."
     ". enquetes .";
   font-family: "Noto Sans JP", sans-serif;
 }
 
 img {
-  max-width: 100%;
-  max-height: 100%;
   display: block;
   background: url(img/tiger.png) no-repeat;
   -moz-box-shadow: 10px 10px 5px #ccc;
